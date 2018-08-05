@@ -1,4 +1,4 @@
 #!/bin/bash
 echo building
-echo done
-exit 0
+echo done with err
+exit 1
