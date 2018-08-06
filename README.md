@@ -1,2 +1,3 @@
 # buildtest
-for testing slackgist
+for testing [slackgist](http://gitlab.com/bobbae/slackgist)
+

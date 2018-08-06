@@ -1,4 +1,8 @@
 #!/bin/bash
 echo building
-echo done with err
-exit 1
+cd example
+make
+docker build -t bobbae/example .
+docker push bobbae/example
+
+
