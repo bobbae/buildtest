@@ -5,4 +5,4 @@ make
 docker build -t bobbae/example .
 docker push bobbae/example
 
-echo hello 1 2 3
+echo hello 1 2 3 4
